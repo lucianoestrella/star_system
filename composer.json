@@ -1,0 +1,17 @@
+{
+    "name": "luciano/sistema_polis",
+    "autoload": {
+        "psr-4": {
+            "Luciano\\SistemaPolis\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "lucianoestrella",
+            "email": "92052268+lucianoestrella@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "dompdf/dompdf": "^3.1"
+    }
+}

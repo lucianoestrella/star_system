@@ -1,0 +1,10 @@
+# Ignorar configurações de banco de dados locais
+includes/conexao.php
+
+# Ignorar pastas de sistema do SO
+.DS_Store
+Thumbs.db
+
+# Ignorar fotos de usuários enviadas durante testes
+assets/img/perfil/*
+!assets/img/perfil/default.png
