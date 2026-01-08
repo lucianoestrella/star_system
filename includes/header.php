@@ -17,6 +17,6 @@ include('conexao.php');
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css">
     <script src="https://cdn.jsdelivr.net/npm/toastify-js"></script>
-    <title>Polis System</title>
+    <title>Star System</title>
 </head>
 <body style="display: flex; background: #151521; color: white; margin: 0; min-height: 100vh;">
