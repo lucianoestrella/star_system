@@ -1,5 +1,5 @@
-🛡️ Sistema Polis
-O Sistema Polis é uma plataforma de gestão de usuários desenvolvida em PHP e MySQL, focada em segurança, controle de acesso e experiência do usuário. O sistema conta com recursos de proteção contra inspeção de código, troca obrigatória de senha no primeiro acesso e suporte integrado.
+🛡️ Star System
+O Star System uma plataforma de gestão de usuários desenvolvida em PHP e MySQL, focada em segurança, controle de acesso e experiência do usuário. O sistema conta com recursos de proteção contra inspeção de código, troca obrigatória de senha no primeiro acesso e suporte integrado.
 
 🚀 Funcionalidades Principais
 Controle de Acesso: Sistema de login com níveis de permissão (admin e comum).
@@ -20,7 +20,7 @@ Dashboard Responsiva: Interface moderna com Sidebar e visualização de dados.
 
 📁 Estrutura de Pastas
 
-Sistema_Polis/
+Star_System/
 ├── actions/             # Processamento de formulários (Login, Reset, Contato)
 ├── assets/              # Arquivos estáticos (CSS, JS, Imagens)
 ├── includes/            # Arquivos globais (Conexão, Header, Footer)
@@ -60,7 +60,7 @@ Servidor:
 
 Coloque a pasta do projeto no htdocs (XAMPP) ou www (WAMP).
 
-Acesse via http://localhost/Sistema_Polis.
+Acesse via http://localhost/Star_system
 
 🛡️ Segurança do Sistema
 Para garantir a integridade dos dados, o sistema utiliza o arquivo includes/header.php para validar as sessões em todas as páginas internas. Se um usuário não estiver logado, ele é automaticamente expulso para a index.html.
