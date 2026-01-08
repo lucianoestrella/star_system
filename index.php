@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="assets/css/style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-    <title>Login - Sistema Polis</title>
+    <title>Login - Star System</title>
     <style>
         body {
             display: flex;
@@ -33,7 +33,7 @@
     <div class="container login-container">
         <form action="actions/login.php" method="POST">
             <div style="text-align: center; margin-bottom: 30px;">
-                <h2 style="color: white;">Sistema Polis</h2>
+                <h2 style="color: white;">Star System</h2>
                 <p style="color: #94a3b8; font-size: 14px;">Entre com suas credenciais para acessar</p>
             </div>
 
@@ -53,7 +53,7 @@
 
     <footer style="position: fixed; bottom: 0; width: 100%; padding: 25px 0; text-align: center; background: rgba(0,0,0,0.3); border-top: 1px solid rgba(255,255,255,0.05); font-size: 13px; color: #64748b;">
         <div style="margin-bottom: 10px;">
-            <strong style="color: #94a3b8;">&copy; 2026 Polis System</strong> - Todos os direitos reservados.
+            <strong style="color: #94a3b8;">&copy; 2026 Star System</strong> - Todos os direitos reservados.
         </div>
         <div style="display: flex; justify-content: center; gap: 25px;">
             <a href="https://wa.me/5561996611472?text=Olá!%20Este%20contato%20veio%20pela%20plataforma%20Polis." 
